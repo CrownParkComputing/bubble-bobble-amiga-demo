@@ -10,7 +10,7 @@
   "level_restart_resets_clock": false,
   "full_roms_included": false,
   "kickstart_included": false,
-  "binary_sha256": "dc50a79e1ea8f796ff0fc5651728ac873b8e77053f64f5f631cb93809e09db80",
+  "binary_sha256": "5fc7f3b6f252ab457c559459b6175d198fdd4528fe7770ec06f96615288c6066",
   "files_sha256": {
     ".gitignore": "5464c9536d8d29da01dd327f162e6b187ec95056b788a2bfc69ce465fb60460f",
     "BubbleBobbleDemo/BubbleBobble.slave": "a43b627aa19102f288a861d943fa974ba58a5b7ffaa411f028a32c294c06aa51",
@@ -22,7 +22,7 @@
     "BubbleBobbleDemo/Licenses/ymfm/LICENSE": "2d2e9213c170a9866c616fa85b6da993a6724e10befc61f468ed9bfb84c4691c",
     "BubbleBobbleDemo/Licenses/z80emu/NOTICE": "d35427b0029cc5a0c20143465f75761eb56888271644ce2d90c2b41c7485cba2",
     "BubbleBobbleDemo/ReadMe": "cc03c8e9cd44b65e50f609bff0d58007937e7f44a19c7c592ea6b9a32712f60f",
-    "BubbleBobbleDemo/data/bubble-ace": "dc50a79e1ea8f796ff0fc5651728ac873b8e77053f64f5f631cb93809e09db80",
+    "BubbleBobbleDemo/data/bubble-ace": "5fc7f3b6f252ab457c559459b6175d198fdd4528fe7770ec06f96615288c6066",
     "BubbleBobbleDemo/data/bubble.audio.bin": "610341e1aab2fb2736cf6cd23fe864489410523be9440411148a118d1484144b",
     "BubbleBobbleDemo/data/bubble.m07.pcm": "902e7d01681c7d10f37e8cf7735825731b370cb6e9862155f5367244b432d614",
     "BubbleBobbleDemo/data/bubble.m08.pcm": "a5ee9c8182e663cf1ebbbc52a5b09252f24914781d60028e802e58ce25361e90",
@@ -55,14 +55,14 @@
     "BubbleBobbleDemo/data/bubble.mf2.pcm": "75636c24afd656ef5ecce3f72ea07ce91dbc4c79bd2320fef56d61bfa3dbe470",
     "BubbleBobbleDemo/data/bubble.mf4.pcm": "f8663514fd49f1b650b13ed9b95eb1f9628f3903a4ae6071d7932ed059cbd463",
     "BubbleBobbleDemo/data/bubble.mf6.pcm": "2d11d46b75dc358ce6f9f18694aa0cf43881a3648cb9f5825123c709b5a80842",
-    "README.md": "50a18540d621c85278c56614d307ad3097ea14d13c6c94a9b1a4193d939d6555",
-    "configurations/A1200-020.uae": "1e1e0e59b000cd55410e54045ffb3cd1150c627edc84023d2120c46591c0197f",
-    "configurations/A4000-040.uae": "bc278e5a0bdb86d6f2b459d03825643930ef617cd48175849afc11dcca9c3730",
+    "README.md": "756d140d743d84f93d4c2db07ef9982a855925d0d7f476a4d71b8c68d55f2016",
+    "configurations/A1200-020.uae": "9b4ca2aa2acbca0aad1a8b89a162cebd36f786d99ebf5eff2b74429b4e2affdb",
+    "configurations/A4000-040.uae": "2f61b857e79379f0169cc2b5ee5f86cc07622c4b5625b0d29490d36405bf2e05",
     "images/title.png": "e84d988c7afc988b7fd6db6b40532201d9c52fa078f853eaf948cbfa969810de",
     "images/two-player.png": "736876c1dbc1d8cb4041628fd730ba0cb5e628b2b0bfa027a8674c452f40f741",
     "launch.py": "553e17e3f6ed0132b2e1af8797946a3a29fe64843783ca22be8f3d0afa582d0b",
     "validation/game.log": "50f6760df8fe9241a867d694ce4c2442e5b67be84c3ce706525b9b7efe9ae606",
-    "validation/report.json": "106793f6a0a9df24fc1a39b3e995bfa5d61b5399a8615cdcec6bc9f8ed7c4a09",
+    "validation/report.json": "e6614a21c56be64de51a798029cd5565380143cc919774cb3c0ba901be9bcba8",
     "validation/timer.log": "ff3c4a7ccf13ec21d0045b8789269c6aec815d59efc629315271c8222d8dcd1d"
   }
 }

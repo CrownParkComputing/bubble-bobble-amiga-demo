@@ -77,3 +77,6 @@ those licenses do not grant ownership of the original game or soundtrack.
 
 See `demo-manifest.json` for limits and file hashes, and `validation/` for the
 focused timer/map checks and isolated emulator verification.
+
+Primary controller: physical Amiga port2; port1 defaults to mouse. Replace the
+mouse with a second pad only for Player2. Automatic input switching is disabled.
