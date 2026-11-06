@@ -1,0 +1,3 @@
+Z80 processor core by Lin Ke-Fong. The source headers declare Public Domain.
+Adapted local z80emu integration from AmigaCollections/native/Ikari/src/host/ikari.
+Only host reference builds link the interpreter; native game builds use statically generated instructions.

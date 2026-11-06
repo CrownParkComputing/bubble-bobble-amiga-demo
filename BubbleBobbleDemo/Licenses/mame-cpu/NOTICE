@@ -1,0 +1,5 @@
+Hardware map/GPIO and 6801 cycle table reference: MAME 0.285, BSD-3-Clause.
+Original driver copyright Chris Moore and Nicola Salmoria.
+6800/6801 CPU source copyright Aaron Giles; see upstream file headers.
+Pinned references: mamedev/mame tag mame0285, src/mame/taito/bublbobl.cpp, bublbobl_m.cpp; src/devices/cpu/m6800/m6801.cpp and 6800ops.hxx.
+The generated original-game MCU instructions are private build output from the operator-supplied ROM; no MAME CPU interpreter is linked.

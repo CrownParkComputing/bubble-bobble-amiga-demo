@@ -1,0 +1,9 @@
+Original board video layout, PROM column sequencing and palette format:
+MAME mame0285 src/mame/taito/bublbobl.cpp and bublbobl_v.cpp.
+Copyright Chris Moore and Nicola Salmoria; BSD-3-Clause.
+https://github.com/mamedev/mame/tree/mame0285/src/mame/taito
+
+The Amiga retained planar composition, dirty-cell repair and independent
+Chip-buffer queues are game-specific native code. MAME is not linked into
+the Amiga renderer. Caller-owned ROM graphics and generated assets remain
+outside the source repository.

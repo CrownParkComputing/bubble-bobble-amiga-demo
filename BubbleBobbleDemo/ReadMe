@@ -1,0 +1,13 @@
+Bubble Bobble native Amiga DEMO
+
+Five ordinary rounds; five minutes of active gameplay per new game.
+Menus, pause and intro do not spend the clock. Level restarts do not refill it.
+Clear round5 or reach the time limit to finish and enter qualifying scores.
+Stock14MHz68020 AGA,2MBChip +8MBFast; simultaneous1P/2P.
+Run WHDLoad SLAVE=BubbleBobble.slave NOMMU CACHE from this directory.
+Supply your own A1200 Kickstart40.068 and relocation file.
+P1 arrows,Z/Alt bubble,X/Shift jump. P2 A/D,F/G; controllers A/B.
+1/2 start or join;5/6 credits;F1/Escape/active Start pause;R restart.
+Options: FPS, soundtrack mode, all11 Amiga recordings, sound effects.
+Demo scores/settings save separately as demo-scores.dat.
+Native reconstruction; advanced arcade mechanics remain incomplete.
